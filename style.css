@@ -1,0 +1,56 @@
+.blue-text {
+    font-size: 50px;
+    color: #3AA6B9;
+}
+
+.blue-text2 {
+    font-size: 48px;
+    color: #3AA6B9;
+}
+
+.rounded-button {
+    border-radius: 15px;
+    padding: 10px 20px;
+    background-color: #87CEEB;
+    /* Fondo celeste */
+    color: white;
+    border: none;
+}
+
+.right-align {
+    text-align: right;
+    margin-top: 20px;
+}
+
+.precio {
+    font-size: 40px;
+    color: #686D76;
+}
+
+.litexto {
+    font-size: 1.5em;
+}
+
+.centered-text {
+    background-color: #3AA6B9;
+    /* color de fondo */
+    text-align: center;
+    /* centrar horizontalmente */
+    display: flex;
+    /* usar el modelo de caja flexible */
+    justify-content: center;
+    /* centrar horizontalmente */
+    align-items: center;
+    /* centrar verticalmente */
+    height: 200px;
+    /* altura opcional */
+    font-size: 100px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: white;
+}
+
+.big-text {
+    font-size: 25px;
+    /* Tamaño del texto, puedes ajustarlo según tu preferencia */
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
